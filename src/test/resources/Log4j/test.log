@@ -1,0 +1,1083 @@
+2021-11-03 19:36:30 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 19:36:30 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=205
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 12:36:29 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=1335cf0e9ffc484e84f9b93ea2e61821; Expires=Sat, 01-Nov-2031 12:36:29 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 fdf96859c8a26606c28f770011e1fdeb.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=X_S7_K64TU4Mgrnf1HncplYF_XM6voKCruwVDFNiDuqAiZurc6714A==
+2021-11-03 19:36:30 INFO  Log:16 - Response body: {
+	"id": 2277609666,
+	"order": 5,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277609666"
+}
+
+2021-11-03 19:43:34 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 19:43:34 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=205
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 12:43:34 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=1544eb07c2cc4728aae7151e07424d3f; Expires=Sat, 01-Nov-2031 12:43:34 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 0e4baa40f8860e2e0eea54b2a4c33ba5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=17Fu0M1K6YrOpBoEtHXkK0axTjwZTtGMFj26ms2HKfjbddOQJrEpEA==
+2021-11-03 19:43:34 INFO  Log:16 - Response body: {
+	"id": 2277610062,
+	"order": 6,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277610062"
+}
+
+2021-11-03 19:47:51 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 19:47:51 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=205
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 12:47:50 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=8c44aa85ff6b47df838e007edc21ae23; Expires=Sat, 01-Nov-2031 12:47:50 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 1b188969a1e6ee360ace67a42f6d5af9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=1fJ3-wnR3Ohwus0IzYU5vgy_lfK7aLOle_rfZaPP5-lX_tDrfTtHmA==
+2021-11-03 19:47:51 INFO  Log:16 - Response body: {
+	"id": 2277610343,
+	"order": 7,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277610343"
+}
+
+2021-11-03 19:51:08 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 19:51:08 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 12:51:08 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=f0e01886e6c74b7b9fb1d6fb91457e59; Expires=Sat, 01-Nov-2031 12:51:08 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 472637409b8ae00cf91bae609bb7b3ae.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=Pb0UsVmuv3JaMZNQ5AeWqmOEIKAmHvqUnvTHqt3I80U-if9YeKQp0A==
+2021-11-03 19:51:08 INFO  Log:16 - Response body: Internal Server Error
+2021-11-03 19:55:30 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 19:55:30 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 12:55:30 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=f13e77cddc944a94ba4f08aeef0fd882; Expires=Sat, 01-Nov-2031 12:55:30 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 7d10f72a0599802fbc9679c1808688d2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=bLP3FAQ8AE0epoDCoBAi5JYfsmVBAcp87xf9IOZVRcVAhjPx757FQg==
+2021-11-03 19:55:30 INFO  Log:16 - Response body: Internal Server Error
+2021-11-03 20:00:33 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 20:00:33 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 13:00:33 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=caa4dc77830e45fdaaeb2d8448d35850; Expires=Sat, 01-Nov-2031 13:00:33 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 f235177faa25fc35ec9c771332a8ef56.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=CCubyLnzbJYHu09ZWlZgmmBY3HpceGCS0Hlhv9m6XQFJVk6KZYcWqw==
+2021-11-03 20:00:33 INFO  Log:16 - Response body: Internal Server Error
+2021-11-03 20:14:29 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 20:14:29 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 13:14:29 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=89c235af11714615acca6c591811ddaa; Expires=Sat, 01-Nov-2031 13:14:29 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 3922e47363801e147476c95f0336c634.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=Rwqgf_TNWzShQ8WhQfclaeYVrln-LDdeez80K5zQs0SKSYAji9dOew==
+2021-11-03 20:14:29 INFO  Log:16 - Response body: Internal Server Error
+2021-11-03 20:23:14 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 20:23:14 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 13:23:14 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=d962e8b3104442229209c203109b932a; Expires=Sat, 01-Nov-2031 13:23:14 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 115fcb38413899b63e42dac85a21d414.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=4il9BjdD9g51_DMoptDrdciHiLPkn8Xx3yXZn4qkYUZdPskVU9MXEQ==
+2021-11-03 20:23:14 INFO  Log:16 - Response body: Internal Server Error
+2021-11-03 23:43:33 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 23:43:33 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 16:43:33 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=145183f3233c47869bc9178d10873444; Expires=Sat, 01-Nov-2031 16:43:33 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 8a9bba4ad3114a337ff5728f6ddea7d6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=Gigb7mjImgiXzROtmngspB3I7V0i_qHfvteWSk_CgXUpb2O6MQnHKw==
+2021-11-03 23:43:33 INFO  Log:16 - Response body: Internal Server Error
+2021-11-03 23:48:50 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-03 23:48:50 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 16:48:50 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=f95607e3aacd4f9aaff50625ef6cc589; Expires=Sat, 01-Nov-2031 16:48:50 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 b14e1bfa14e7dbd97a265e40f87b5444.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=OZ_SQfLgjBtYYnUxI8BnGvTLjNYQrdY_6iJYcsIQPl9k-4sp22dlKw==
+2021-11-03 23:48:50 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 00:15:22 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 00:15:22 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 17:15:22 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=e05c0a92b37144ce80b91cd5f806a082; Expires=Sat, 01-Nov-2031 17:15:21 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 1eb001a93e05e8dbbe3865b069b8c264.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=bR2iBvnph1nF2A5_4FGrzxBc7oKT0puvZrC7-q1d4Yh8Ta86P_L58w==
+2021-11-04 00:15:22 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 00:18:53 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 00:18:53 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 17:18:52 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=65d98b3ea5ac4363872b6e3cc1219a9e; Expires=Sat, 01-Nov-2031 17:18:52 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 093696f02b1106c1663dbbef8f659ff7.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=E-uCwHUTbAeRHeLdvioEQ0tqxR1KlAZK4V7CHA36QNAeiJpr4qDKEw==
+2021-11-04 00:18:53 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 00:30:41 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 00:30:41 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 17:30:40 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=738bf37f422f4b068697e3543efc8c52; Expires=Sat, 01-Nov-2031 17:30:40 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 004dc1f5e52bad2a760e2c71bcbdf82b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=SwEbUXWXQn1tdxPWYM3TG7PfJL5MwZKsC6SOtTgi4_M2iVO_IsVZ5A==
+2021-11-04 00:30:41 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 00:34:10 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 00:34:10 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 17:34:10 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=fd975e47c4b045ec8e92e2714af34656; Expires=Sat, 01-Nov-2031 17:34:10 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 b14e1bfa14e7dbd97a265e40f87b5444.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=Xau6psIX88MhPNpRWK4VBu6gUH8dptRW2pLNP6spdDXa3lpnTEzYdw==
+2021-11-04 00:34:10 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 00:38:00 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 00:38:00 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 17:37:59 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=dca63a1ce6d84fa28ca639a33e77a809; Expires=Sat, 01-Nov-2031 17:37:59 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 2787299048b9e6595220467d6c4ce280.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=CYXlFJ4Eo-PTeb-SNt2_SnLZG0NDiD7LwZ3Ukc-G-oAH_UOWLQr-_g==
+2021-11-04 00:38:00 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 00:40:59 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 00:41:00 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 17:40:58 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=d35098ac355b49b7a923c694cc927994; Expires=Sat, 01-Nov-2031 17:40:58 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 09a4215827a9b46080450884343692e5.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=sUPDtNyTpsq7tIHRqtIiR7jtJcsHlqmi9P7KhEple7leCBuqMLwvQg==
+2021-11-04 00:41:00 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 00:46:48 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1//projects
+2021-11-04 00:46:51 INFO  Log:16 - Response header: Content-Length=0
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 17:46:12 GMT
+Location=/rest/v1/projects
+X-Cache=Miss from cloudfront
+Via=1.1 34bd50b1d81b6dab6060e9282ae29c40.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=q6yazI7ejpgwfIOqO5DzAGh0HEiM3g8ulH9MoBPp9pl-tplSJN80HQ==
+2021-11-04 00:46:53 INFO  Log:16 - Response body: 
+2021-11-04 00:57:13 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 00:57:13 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 17:57:12 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=441bf9d323b54608a2029825fb8f7aa5; Expires=Sat, 01-Nov-2031 17:57:12 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 c65fff2f82e54309af3d824113d9507d.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=LSn0wfkybzfjP4bUcsYWNuvg42ZZ_oTP1T9uHBOyUfcbCTq5JmoUkQ==
+2021-11-04 00:57:13 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 01:49:37 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 01:49:37 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:49:36 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=7f89340db74a4a3d9d89172a681578fc; Expires=Sat, 01-Nov-2031 18:49:36 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 f0e689d58b9908c00af760e3e67202bc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=c-hWWlm-PS81bGUJnDM2r9q7IXNwpaazEIWnJLwZSv0LlpDeFKfpiw==
+2021-11-04 01:49:37 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 01:53:25 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 01:53:37 INFO  Log:16 - Request header: Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Vary=Accept-Encoding
+Date=Wed, 03 Nov 2021 18:53:36 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=30f9f04a6c5744bf851498b53e920ce6; Expires=Sat, 01-Nov-2031 18:53:36 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+Content-Encoding=gzip
+X-Cache=Miss from cloudfront
+Via=1.1 8b995a5910ed9188b04e42dd0dc1ceaa.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=BWtKXYNN6WEvWOB37TSnU_ULbUkA_W16iAnJDVPqEV2YXQvw3xFDHg==
+2021-11-04 01:53:37 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2021-11-04 01:53:39 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:53:39 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=fa4293723f0e461881cecf3cfe3c3549; Expires=Sat, 01-Nov-2031 18:53:39 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 e0ea0b75bb57e29376790553abd73332.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=CcSIelcZ_ZaKXuzEPsjeGt9TkMYvmPLHnDxtPq2uc9TOqW_Ui93DdA==
+2021-11-04 01:53:39 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2249157745
+2021-11-04 01:53:41 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:53:41 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=5e2c27ac97574de1bdd6360f9986fb08; Expires=Sat, 01-Nov-2031 18:53:41 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 1252afb315433c217f521b61d4e59ced.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=xSHZORHczWTH0ok1JjP3c3foHi2F-v0cjCwV1lDObIKupfznXrv3UA==
+2021-11-04 01:53:41 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2250450213
+2021-11-04 01:53:43 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:53:43 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=192057ca458c4b87a877ad330b605dfc; Expires=Sat, 01-Nov-2031 18:53:43 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 c5a76e805d061ce77b65fd84fe07dfe8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=juImdXlF8wDOaFMTbDCR7eo_-lg7f1tQi4EjXdHlBHqLIfiqFBZcHw==
+2021-11-04 01:53:43 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2262638468
+2021-11-04 01:53:45 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:53:45 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=3cc1923b024045e6ac1936343b972308; Expires=Sat, 01-Nov-2031 18:53:45 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 953ae3faac13486af9af1f7195f33160.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=ZXJ13Z58mdY1oMkbNoa3mStGlKSzmNrVWReDPWFdkbLSrMCdSFCcVA==
+2021-11-04 01:53:45 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2262641045
+2021-11-04 01:53:47 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:53:47 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=4ec309ea88314999b1a48990c50d558b; Expires=Sat, 01-Nov-2031 18:53:47 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 920fe22ff36f037e8c6a26057f59c752.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=0S-b2ov5EPM8VBnWIzqye8aM7OLjcKMfXPI9DgPHbkFCMoers7jdFA==
+2021-11-04 01:53:47 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277609666
+2021-11-04 01:53:49 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:53:49 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=05f758b970ce464fac9281da659d29be; Expires=Sat, 01-Nov-2031 18:53:49 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 4bad542f350fafa44841d66988d49d11.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=dBacIWKqB5N8D-MxthJe2l_2TKrH_fu32HERT5n7nTCSiy_q8oEvTw==
+2021-11-04 01:53:49 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277610062
+2021-11-04 01:53:51 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:53:51 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=3c858397cbb04f86baf01ed5d0c27567; Expires=Sat, 01-Nov-2031 18:53:51 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 d3c11e1b74abb80b6dce6f145cab703c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=ySFXL5pGe5dLi-wqmr6CMHSryu7sXqvAnMhjnP1lmI-uFCF8M9nJbw==
+2021-11-04 01:53:51 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277610343
+2021-11-04 01:53:53 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:53:53 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=a215dfc9ac0d43fa8547a1db8a121017; Expires=Sat, 01-Nov-2031 18:53:53 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 29915b3944bf0fc3a6db9eae24e7238e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=u7VifSKmuy2sKzWHMZVrcCSdbuKazOSX4Uyo5Tm3iU8Dj8s3xlYzfQ==
+2021-11-04 01:55:16 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 01:55:17 INFO  Log:16 - Request header: Content-Type=application/json
+Content-Length=224
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:55:17 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=6da0846cdc90404c976d1f09cd71f425; Expires=Sat, 01-Nov-2031 18:55:17 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 2276141e64b3e76ad879a6638f87396c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=nWGtLhPgjB0fwTJKCtAqX9aYzQHzIcw8VrN25Jr3zMwOzVFoPlRLww==
+2021-11-04 01:55:17 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2021-11-04 01:55:18 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:55:18 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=67acb7e4eefa41cd961e3d348ab62501; Expires=Sat, 01-Nov-2031 18:55:18 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 7b0279ed15f18c36e1a8b2a83f1f63bf.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=pzG7qaCWZsk7fblFp_4m-urWOn7WoJjlE4qgSPlAD0aZy14COzTQtA==
+2021-11-04 01:55:33 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 01:55:34 INFO  Log:16 - Request header: Content-Type=application/json
+Content-Length=224
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:55:34 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=bd8c83610b6d48f4a076b0b71d510510; Expires=Sat, 01-Nov-2031 18:55:34 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 2ef757f23e6fff3c09020eff0ca37943.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=p-hiZFfyJDqQXoWmoIWuaWlG3IHtaj8F52IyOEsyN2qlw_HJ5pAJKg==
+2021-11-04 01:55:34 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2021-11-04 01:55:35 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:55:35 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=d7873d1ce1c6477683847eb4ef006a69; Expires=Sat, 01-Nov-2031 18:55:35 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 a55558c6b6748e578253e36b174f0b2f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=YIwOpp_E4QUDUYHcyYwECaOYFK2P3r-k9MQzLTYNWr3azrC69y-qVQ==
+2021-11-04 01:57:20 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 01:57:22 INFO  Log:16 - Request header: Content-Type=application/json
+Content-Length=224
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:57:21 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=47ca08b6203b4c0e91ecd9c629075eaa; Expires=Sat, 01-Nov-2031 18:57:21 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 42cd5a36cf9ad881ea4b618b3995860b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=6cY1z39RvYv6Li5o8go_d-JgMg5yxSy2_KNbMg54YTF70VF742h9QQ==
+2021-11-04 01:57:22 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2021-11-04 01:57:23 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:57:23 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=c962450ffa204cb2a54dc52c204c8e42; Expires=Sat, 01-Nov-2031 18:57:22 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 c967a8805fdfaef2a31a279939e3cfec.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=R6ZyU4-1bqcyUGKBMZmrgiG1Ccay9fY3puG-KHvG0tQJB4IiTTxu3Q==
+2021-11-04 01:57:34 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 01:57:35 INFO  Log:16 - Request header: Content-Type=application/json
+Content-Length=224
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:57:34 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=4604d16c380444669f9f711d7e1842e7; Expires=Sat, 01-Nov-2031 18:57:34 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 04904401d608fcf25189f8fad65fe7a4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=1avUlHZpguJvX2UvUpiaxcemdAkD-qmmR2kDRwtE_w1-0003Xh7Bbg==
+2021-11-04 01:57:35 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2021-11-04 01:57:35 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:57:35 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=7cd729f59be44695973f9e8a5fb4212e; Expires=Sat, 01-Nov-2031 18:57:35 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 04904401d608fcf25189f8fad65fe7a4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=-vnG-vyg1uFrJIY-ZKK49ACSvWmoWbb6ZE1AockYEI_cX_acSyhPrQ==
+2021-11-04 01:57:47 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 01:57:48 INFO  Log:16 - Request header: Content-Type=application/json
+Content-Length=224
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:57:48 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=65422b606d1848ae8932e4df09270511; Expires=Sat, 01-Nov-2031 18:57:48 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 8a9bba4ad3114a337ff5728f6ddea7d6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=UyIDsMAWW8hVK0T41gYLlTeZtqFBbWaYld2DOh6BJiXjPOuwwOCfwA==
+2021-11-04 01:57:48 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2241652981
+2021-11-04 01:57:48 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 18:57:48 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=18a0fb5fd72d46d99f249531fbb47ac8; Expires=Sat, 01-Nov-2031 18:57:48 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 ecb524a4f209f9909e6fd6e707550a0e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=_WG0Ygl0-DTKxpP2xqdnjjvg12xSQ68ODfmOnsUKG6IxDvEGuLYXGA==
+2021-11-04 02:26:35 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 02:26:35 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=205
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 19:26:34 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=947e870f42ed4f3ea5c82abed4c3272a; Expires=Sat, 01-Nov-2031 19:26:33 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 f6c608add865ceeb6da77dce68edf206.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=LVBwp_yw4wnVCdr9gxk2p2RKx1NMAKpYR9_wQg_Ubcm-y7yceoiTSg==
+2021-11-04 02:26:35 INFO  Log:16 - Response body: {
+	"id": 2277637977,
+	"order": 5,
+	"color": 47,
+	"name": "Test Project",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277637977"
+}
+
+2021-11-04 02:34:31 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 02:34:31 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 19:34:30 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=941b56b720384f97b7098be38bcd43e5; Expires=Sat, 01-Nov-2031 19:34:30 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 91c3fd6967e112cc744bae7ec63e81f6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=4HChQteuDJgBQYJM26d66J4yvyIVTdzvOzvxKV5hnzb5XTlhh6CNXw==
+2021-11-04 02:34:31 INFO  Log:16 - Response body: {
+	"id": 2277638434,
+	"order": 4,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277638434"
+}
+
+2021-11-04 02:56:42 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 02:56:42 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 19:56:42 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=2cae060673d04ef19cabc41bb704a8bc; Expires=Sat, 01-Nov-2031 19:56:41 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 dccfa316bb1b94c6fd9cede16dd6ab39.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=L9HaSL_T94-eHNiPoF1odkC-DTmqHfNWzxNzKC7lu8pATQViP2la1g==
+2021-11-04 02:56:42 INFO  Log:16 - Response body: {
+	"id": 2277639781,
+	"order": 4,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277639781"
+}
+
+2021-11-04 03:00:45 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 03:00:45 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:00:44 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=af70ccd8a77c435888389df15bc9a706; Expires=Sat, 01-Nov-2031 20:00:43 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 236735b52059949e1df9130ff0e7ce4e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=M5lwbedlfOqmU9tKtYQHFd701Wn7NezasToxFsFwQWYgu8pNjjl58A==
+2021-11-04 03:00:45 INFO  Log:16 - Response body: {
+	"id": 2277639994,
+	"order": 5,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277639994"
+}
+
+2021-11-04 03:05:43 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 03:05:45 INFO  Log:16 - Request header: Content-Type=application/json
+Transfer-Encoding=chunked
+Connection=keep-alive
+Vary=Accept-Encoding
+Date=Wed, 03 Nov 2021 20:05:45 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=e450bcabb570479f8bc55b67174923d9; Expires=Sat, 01-Nov-2031 20:05:45 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+Content-Encoding=gzip
+X-Cache=Miss from cloudfront
+Via=1.1 4466aaf3ba3ee7921322175dc8537b7b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=OS21HCP8hjwPpkq-7QAT5jM25bkcmn6_WgkgDP5qXFKyNHaKCA4bag==
+2021-11-04 03:05:45 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277627681
+2021-11-04 03:05:46 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:05:46 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=7127a49d198a45ec87ccfb7fc8357826; Expires=Sat, 01-Nov-2031 20:05:46 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 2d08c1a759237434f5ff684561073cb9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=UK9KDMI7YX_eCi0wQDkZCvTivmBexIqpfvooTi8hNBLdeAR7lONCaQ==
+2021-11-04 03:05:46 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277627682
+2021-11-04 03:05:47 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:05:47 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=f49ec9c8ab86435799cb00778d9510be; Expires=Sat, 01-Nov-2031 20:05:47 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 1b188969a1e6ee360ace67a42f6d5af9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=o67SW6n7A9qH0Ezo_bh_rw921XtxDY_is6Co8x9H9ReS7TAiBx6WqA==
+2021-11-04 03:05:47 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277627684
+2021-11-04 03:05:48 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:05:48 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=652bc84247c34042b11522568a348d24; Expires=Sat, 01-Nov-2031 20:05:48 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 214d8a3cdb14de6b0331d1f72902cc67.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=0i1PtZDPwOUfUkJ8RTdvjwyNiBuT27Cum0e920H6cWjDYVG_MSFp4w==
+2021-11-04 03:05:48 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277635130
+2021-11-04 03:05:49 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:05:49 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=acd5236182fc48a48df10cd6df6f4070; Expires=Sat, 01-Nov-2031 20:05:49 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 c379fc647ec433c74b9813bff8a9cf0f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=RxMGWDWh-D1aLJlgfe4QQR432W9FLY_tfStLmZ3hxkxF30uUklN_jA==
+2021-11-04 03:05:49 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277639781
+2021-11-04 03:05:51 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:05:50 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=0860d44127894e06816605bfddf3e177; Expires=Sat, 01-Nov-2031 20:05:50 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 3ea7dec9ae91ed3e4cc2a65d3613ed52.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=EeKywlyAC6dzfzUaQF1X_9eNrV_pwawGdhhG7DbGgxpoSxVGaSZ4Sg==
+2021-11-04 03:05:51 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277639994
+2021-11-04 03:05:52 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:05:51 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=19809f7ffacc4793bf7b824053f612d6; Expires=Sat, 01-Nov-2031 20:05:51 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 f38a78a2a0484ca72b698f4e2dc320f3.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=7tgSxUKC4IEHqoMAkCZ4nRSZBk5TJvEhHyi-DrSXxCWhKbfQkhbPWQ==
+2021-11-04 03:06:22 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 03:06:23 INFO  Log:16 - Request header: Content-Type=application/json
+Content-Length=224
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:06:22 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=1e3d3a90cb7a4b729afa82638abc1f4d; Expires=Sat, 01-Nov-2031 20:06:22 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 6c12f45af1f84786ea85b2585f1d5df2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=h54lABEgWnmZnGScQ6MlmmwQcBBfG5_vdHMIBwiJMWe0X9kcFOrDgw==
+2021-11-04 03:06:23 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277627681
+2021-11-04 03:06:23 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:06:23 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=d3a5ec7329554b40b5d0c9e16a49c2cd; Expires=Sat, 01-Nov-2031 20:06:23 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 8c250398edc42574d769dea42e6dbecc.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=dIUjkeTA0aReNBzy0i_cUDcCjdqutGoJUwDyTeBXg7fAeslW6RyrqA==
+2021-11-04 03:06:36 INFO  Log:16 - Get with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 03:06:37 INFO  Log:16 - Request header: Content-Type=application/json
+Content-Length=224
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:06:37 GMT
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=03d9e934e4924c39a9eb65582ca9674f; Expires=Sat, 01-Nov-2031 20:06:37 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 e56264a77485cec43af6dd7fd04be87e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=gRchH7V5z2YaSz2AfhsSeEbgUGC0DISRS_r8QzJzJbI-TrZcp1R54Q==
+2021-11-04 03:06:37 INFO  Log:16 - Delete with API url: https://api.todoist.com/rest/v1/projects/2277627681
+2021-11-04 03:06:38 INFO  Log:16 - Request header: Content-Type=text/html; charset=utf-8
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:06:37 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=3bedfb0fff7543f29e790f0edcb5cf1b; Expires=Sat, 01-Nov-2031 20:06:37 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 8730481efae5d62c03ca8bf771c54e2f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG60-C1
+X-Amz-Cf-Id=Griggtcf8WV-uQ72TukB3gLfI1W3Cz1BtdCxkhgmVuX9EsZ6cbPNOQ==
+2021-11-04 03:09:51 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 03:09:51 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Wed, 03 Nov 2021 20:09:51 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=8d5d290854824406bae81541d9928f77; Expires=Sat, 01-Nov-2031 20:09:50 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 13be27eb1689d67315755cdb59e2ee6b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=BKK50-C1
+X-Amz-Cf-Id=OOL4_H3QcltFQnV77JS6dVu47w8kaDMnIjCKahsKCJDHOMW1ummWtQ==
+2021-11-04 03:09:51 INFO  Log:16 - Response body: {
+	"id": 2277640576,
+	"order": 1,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277640576"
+}
+
+2021-11-04 10:29:51 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 10:29:51 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 03:29:49 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=935fa6a2c087403bbcb228518154dc90; Expires=Sun, 02-Nov-2031 03:29:49 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 8eec9c1b2dd28f54fb701210616ae003.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=QPlhAEbjh-ROBdVZR8w62SSlNNFVYBuP1RhCtLQGVcBUlShBurL06A==
+2021-11-04 10:29:51 INFO  Log:16 - Response body: {
+	"id": 2277658951,
+	"order": 2,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277658951"
+}
+
+2021-11-04 10:49:32 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 10:49:32 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 03:49:32 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=924a4dc5c882422d91831f46afd87ff3; Expires=Sun, 02-Nov-2031 03:49:32 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 7e94e2a36b24f348c9dbb92fb8437e85.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=kFGZ468Fdcx5exlBrQSU2_PwssmNYLfSFWFZzrDta6MlmxMuBwHGDw==
+2021-11-04 10:49:32 INFO  Log:16 - Response body: {
+	"id": 2277659488,
+	"order": 3,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277659488"
+}
+
+2021-11-04 12:36:53 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 12:36:53 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 05:36:52 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=d9cd954c1aa640809e9b3b2137bffb66; Expires=Sun, 02-Nov-2031 05:36:52 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 373c716feb96dba95431972bb1105837.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=hyiNaS0bSoJ_VC-5ki0RcL7XQuJy0PRhUdDBJ8QCv6YkaN1oS0q8nQ==
+2021-11-04 12:36:53 INFO  Log:16 - Response body: {
+	"id": 2277662444,
+	"order": 4,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277662444"
+}
+
+2021-11-04 12:47:39 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 12:47:39 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 05:47:38 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=4af83c6019674b1fa4b30570ed1375ad; Expires=Sun, 02-Nov-2031 05:47:38 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 52a498d787d2633f943b58da482770e6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=k8NlZ93BcRer5pBHQDLxDT8HXgIa8vmO_vX6HYrvcSR0CDK6sfjRNw==
+2021-11-04 12:47:39 INFO  Log:16 - Response body: {
+	"id": 2277662771,
+	"order": 5,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277662771"
+}
+
+2021-11-04 12:50:13 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 12:50:13 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 05:50:12 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=c5c958191e584966aceed9a6cabcb08f; Expires=Sun, 02-Nov-2031 05:50:12 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 52a498d787d2633f943b58da482770e6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=KimYMDXw5NA_aJm9yYIsZrEiYIX-hHovq_fjAY8npQXDVE3NuJOX5g==
+2021-11-04 12:50:13 INFO  Log:16 - Response body: {
+	"id": 2277662857,
+	"order": 6,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277662857"
+}
+
+2021-11-04 12:51:33 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 12:51:33 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 05:51:32 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=126de27e91d946db86c38215c1e298c0; Expires=Sun, 02-Nov-2031 05:51:32 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 7d1ba0397af493cf13f301d061e292ac.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=bGZGY4ghxbFLyIrAbbdlpXtttzILL1PF4QqsXWWNDZZHIlXPW0GkMQ==
+2021-11-04 12:51:33 INFO  Log:16 - Response body: {
+	"id": 2277662893,
+	"order": 7,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277662893"
+}
+
+2021-11-04 12:53:10 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 12:53:10 INFO  Log:16 - Response header: Content-Type=text/plain; charset=utf-8
+Content-Length=21
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 05:53:09 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=2970046046484220bdef1dc0b4903a7b; Expires=Sun, 02-Nov-2031 05:53:09 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Error from cloudfront
+Via=1.1 4d5fa6bed14944a743cd122ad4fe5d4b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=lTxaDwnJFp3yU_4H80T3ZkySH7fat_O-H7yu4QcgfeMrVnU91UlyzQ==
+2021-11-04 12:53:10 INFO  Log:16 - Response body: Internal Server Error
+2021-11-04 13:11:42 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 13:11:42 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 06:11:41 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=ef95948ff5294039a70979004aee50aa; Expires=Sun, 02-Nov-2031 06:11:41 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 42cd5a36cf9ad881ea4b618b3995860b.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=wPU7utfv7opVKnKkhsYB6lrNXjsFsx2sQvidTx_trFS86btzcc9PBw==
+2021-11-04 13:11:42 INFO  Log:16 - Response body: {
+	"id": 2277663515,
+	"order": 1,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277663515"
+}
+
+2021-11-04 13:12:42 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 13:12:42 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 06:12:42 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=391b6d92ceb847b99804950b3cb99e85; Expires=Sun, 02-Nov-2031 06:12:42 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 52c5ddb029eae46cd9dad0cfd50b5b8f.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=vFHItXNZxb-pGOEvlhMn3z17sQ-oojODJMVAxAIXd8blpWBf-fM4AA==
+2021-11-04 13:12:42 INFO  Log:16 - Response body: {
+	"id": 2277663540,
+	"order": 2,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277663540"
+}
+
+2021-11-04 13:16:41 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 13:16:41 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 06:16:41 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=2eb13ff3f7d54025884e3cbf95349367; Expires=Sun, 02-Nov-2031 06:16:40 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 0cfddac687b0e42e0853cfa412519154.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=n8fZlCOJiCQRiMyjKYyoBNxfXEq0tkXhd3taXvCsxTiyUfjPWZk42A==
+2021-11-04 13:16:41 INFO  Log:16 - Response body: {
+	"id": 2277663663,
+	"order": 3,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277663663"
+}
+
+2021-11-04 13:18:09 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 13:18:09 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 06:18:09 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=206f5799f4664dedac5ba8aadb9db476; Expires=Sun, 02-Nov-2031 06:18:09 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 c9006eba4649f733be848dcf116b7e3a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=4UPeuKGNx8CAcJjXsjVjsGmBUp1E77ZQExplcHAeaAsF48vbffcYgg==
+2021-11-04 13:18:09 INFO  Log:16 - Response body: {
+	"id": 2277663718,
+	"order": 4,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277663718"
+}
+
+2021-11-04 14:16:44 ERROR Log:26 - Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\pvhai1\Downloads\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk' does not exist or is not accessible
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PVHAI1', ip: '172.19.160.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: The application at 'C:\Users\pvhai1\Downloads\setel-todoist\src\test\resources\build\android\com.todoist_15.0.4-6030_minAPI21(nodpi)_apkmirror.com.apk' does not exist or is not accessible
+    at getResponseForW3CError (C:\Users\pvhai1\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\pvhai1\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PVHAI1', ip: '172.19.160.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: driver.version: AndroidDriver
+2021-11-04 14:16:46 INFO  Log:16 - Post with API url: https://api.todoist.com/rest/v1/projects
+2021-11-04 14:16:46 INFO  Log:16 - Response header: Content-Type=application/json
+Content-Length=206
+Connection=keep-alive
+Date=Thu, 04 Nov 2021 07:16:46 GMT
+Cache-Control=no-cache
+Referrer-Policy=strict-origin-when-cross-origin
+Set-Cookie=csrf=c5a8d7eaaff447b7b3b10663cc602302; Expires=Sun, 02-Nov-2031 07:16:45 GMT; Secure; Path=/; SameSite=None
+Strict-Transport-Security=max-age=31536000; includeSubDomains; preload
+X-Cache=Miss from cloudfront
+Via=1.1 63a9656547554dba88dc94e9fc75671a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop=HKG54-C1
+X-Amz-Cf-Id=slx7Q1nh_zPmvTYEFdaKTq3d4XUT6MyDB24aU_HPUQ7DDSBQGvpGHg==
+2021-11-04 14:16:46 INFO  Log:16 - Response body: {
+	"id": 2277665746,
+	"order": 5,
+	"color": 47,
+	"name": "Shopping List",
+	"comment_count": 0,
+	"shared": false,
+	"favorite": false,
+	"sync_id": 0,
+	"url": "https://todoist.com/showProject?id=2277665746"
+}
+

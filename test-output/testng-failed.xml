@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testcases.ProjectTests">
+        <methods>
+          <include name="reopen_task"/>
+          <include name="beforeMethod"/>
+          <include name="create_project_via_mobile"/>
+          <include name="create_project"/>
+          <include name="beforeSuite"/>
+          <include name="before_test"/>
+          <include name="resetService"/>
+          <include name="clear_all_project"/>
+        </methods>
+      </class> <!-- testcases.ProjectTests -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
